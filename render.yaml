@@ -58,6 +58,8 @@ services:
         value: "false"
       - key: ENABLE_WHITELIST
         value: "true"
+      - key: WHITELIST
+        value: "BIGGER_BRUTTAL00,Tanish"
       - key: MOTD
         value: "DIAMOND SMP - Private Survival"
       - key: PLUGINS
